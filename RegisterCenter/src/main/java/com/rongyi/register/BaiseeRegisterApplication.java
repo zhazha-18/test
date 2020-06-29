@@ -11,11 +11,7 @@ public class BaiseeRegisterApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BaiseeRegisterApplication.class, args);
 		System.out.println("测试dev分支");
-		System.out.println("to");
-		System.out.println("to");
-	}
-
-	public void add() {
 		
 	}
+
 }
