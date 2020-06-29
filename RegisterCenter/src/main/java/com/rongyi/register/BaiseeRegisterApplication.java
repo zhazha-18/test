@@ -10,6 +10,7 @@ public class BaiseeRegisterApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BaiseeRegisterApplication.class, args);
+		System.out.println("测试dev分支");
 	}
 
 }
